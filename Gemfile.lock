@@ -279,7 +279,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-github-metadata
-  minima
+  jekyll-remote-theme
   webrick
 
 BUNDLED WITH
